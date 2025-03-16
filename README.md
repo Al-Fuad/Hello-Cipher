@@ -75,7 +75,7 @@ This project is open-source and available under the **MIT License**.
 ---
 
 ## 📧 Contact
-For any queries or suggestions, reach out at **your.email@example.com** or create an issue in this repository.
+For any queries or suggestions, reach out at **alfuad.swe@gmail.com** or create an issue in this repository.
 
 Happy encrypting! 🔐🎉
 
