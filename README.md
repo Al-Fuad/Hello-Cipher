@@ -1,4 +1,4 @@
-# Cipher Translator 🔐
+# Hello Cipher 🔐
 
 A Flutter-based text encryption and decryption app using **GetX**. This app allows users to encrypt and decrypt text using different cipher techniques.
 
