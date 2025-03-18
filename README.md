@@ -1,6 +1,6 @@
 # Hello Cipher 🔐
 
-(https://github.com/Al-Fuad/Hello-Cipher/blob/main/hello-cipher.gif)
+[(https://github.com/Al-Fuad/Hello-Cipher/blob/main/hello-cipher.gif)](https://github.com/Al-Fuad/Hello-Cipher/blob/main/hello-cipher.gif)
 
 A Flutter-based text encryption and decryption app using **GetX**. This app allows users to encrypt and decrypt text using different cipher techniques.
 
